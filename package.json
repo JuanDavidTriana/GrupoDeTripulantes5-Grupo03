@@ -1,0 +1,20 @@
+{
+  "name": "ProyectoWeb",
+  "version": "1.0.0",
+  "description": "Repositorio Git del grupo 5, perteneciente al grupo 03 de misión tic 2022\r Jose Ramón \r - Santiago Calvo Valencia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDavidTriana/GrupoDeTripulantes5-Grupo03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanDavidTriana/GrupoDeTripulantes5-Grupo03/issues"
+  },
+  "homepage": "https://github.com/JuanDavidTriana/GrupoDeTripulantes5-Grupo03#readme"
+}
